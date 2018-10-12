@@ -2,8 +2,14 @@
 
 * [Introduction](README.md)
 * [第一章：丹青古墨可取古人，swift更新太特么的快](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai.md)
-  * 程序添加按钮，按钮绑定事件
+  * [程序添加按钮，按钮绑定事件](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/cheng-xu-tian-jia-an-niu-ff0c-an-niu-bang-ding-shi-jian.md)
+  * [窗前明月光，常量与变量](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/chuang-qian-ming-yue-guang-ff0c-chang-liang-yu-bian-liang.md)
+  * [可选项入门简介](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/ke-xuan-xiang-ru-men-jian-jie.md)
+  * [三目运算符入门](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/san-mu-yun-suan-fu-ru-men.md)
+  * [可选项强行解包不可取](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/ke-xuan-xiang-qiang-xing-jie-bao-bu-ke-qu.md)
+  * [当年旧人依可见，for循环已经变了](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/dang-nian-jiu-ren-yi-ke-jian-ff0c-for-xun-huan-yi-jing-bian-le.md)
+  * [我问你我到底有多长，三种方法你来选](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/wo-wen-ni-wo-dao-di-you-duo-chang-ff0c-san-zhong-fang-fa-ni-lai-xuan.md)
 * [第二章 观音院唐僧脱难 Java Web真几把难](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan.md)
   * [范冰冰补税八亿，纳税人不明所以](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/fan-bing-bing-bu-shui-ba-yi-ff0c-na-shui-ren-bu-ming-suo-yi.md)
-  * 周国平散文没看懂，汤姆猫自带连接池
+  * [周国平散文没看懂，汤姆猫自带连接池](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/zhou-guo-ping-san-wen-mei-kan-dong-ff0c-tang-mu-mao-zi-dai-lian-jie-chi.md)
 
