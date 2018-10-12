@@ -1,20 +1,29 @@
 # 关于Tomcat中的自带的数据库连接池
+
 ## Apache 有自家的数据库连接池DBCP
+
 ### 第一部，倒入包
+
 #### 包名
+
 1. Commons DBCP
 2. Commons Collections
 3. Commons Pool
-#### 地址
-Tomcat/lib/下
-### 第二步， 修改配置文件
-#### 路径
-tomcat/conf/context.xml
-#### 修改方式
-添加
-#### 内容
-```
-<Resource
+   #### 地址
+
+   Tomcat/lib/下
+   ### 第二步， 修改配置文件
+
+   #### 路径
+
+   tomcat/conf/context.xml
+   #### 修改方式
+
+   添加
+   #### 内容
+
+   ```
+   <Resource
             name="database_for_java_web"
             scope="Shareable"
             type="javax.sql.DataSource"
@@ -26,12 +35,15 @@ tomcat/conf/context.xml
     />
     <!--name: 映射名-->
     <!--url: 数据库地址-->
-```
-#### 路径
-Java Web项目/web/WEB-INF/web.xml
-#### 修改方式
-添加
-#### 内容
+   ```
+
+   #### 路径
+
+   Java Web项目/web/WEB-INF/web.xml
+   #### 修改方式
+
+   添加
+   #### 内容
 
 ```
 <!-- JDBC DataSources (java:comp/env/jdbc) -->
@@ -46,11 +58,17 @@ Java Web项目/web/WEB-INF/web.xml
 ```
 
 ### 第三部， 编写测试servlet
+
 #### 类名
+
 DataSourceTestServlet
+
 #### 路径
+
 src.ServletPackage.DataSourceTestServlet
+
 #### 代码
+
 ```
 package ServletPackage;
 
@@ -95,12 +113,19 @@ public class DataSourceTestServlet extends HttpServlet {
     }
 }
 ```
+
 ### 在xml文件中修改
+
 #### 路径
+
 Java Web项目/web/WEB-INF/web.xml
+
 #### 修改方式
+
 添加
+
 #### 代码
+
 ```
 <servlet>
         <servlet-name>DataSourceTestServlet</servlet-name>
@@ -111,5 +136,8 @@ Java Web项目/web/WEB-INF/web.xml
         <url-pattern>/ServletPackage/DataSourceTestServlet</url-pattern>
     </servlet-mapping>
 ```
+
 ## 运行结果
-![](/assets/屏幕快照 2018-10-12 上午11.18.52.png)
+
+
+
