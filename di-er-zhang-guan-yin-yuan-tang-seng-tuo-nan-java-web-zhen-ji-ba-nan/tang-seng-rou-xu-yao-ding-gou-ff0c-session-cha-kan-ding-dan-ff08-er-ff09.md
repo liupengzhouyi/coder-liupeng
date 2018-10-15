@@ -344,5 +344,6 @@ public class SaveOrderServlet extends HttpServlet {
  ```
 ### 效果图片
 ![](/assets/屏幕快照 2018-10-15 下午11.29.48.png)
+
  **这就算是完成了吧！但是有一些Bug，会出现404，因为路径的问题，就不修改了，文章中用到了几个JavaBean，代码在GitHub上，项目名Snowman**
  # [Snowman](https://github.com/liupengzhouyi/Snowman)
