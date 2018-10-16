@@ -9,17 +9,21 @@
 1. Commons DBCP
 2. Commons Collections
 3. Commons Pool
+
    #### 地址
 
    Tomcat/lib/下
+
    ### 第二步， 修改配置文件
 
    #### 路径
 
    tomcat/conf/context.xml
+
    #### 修改方式
 
    添加
+
    #### 内容
 
    ```
@@ -40,9 +44,11 @@
    #### 路径
 
    Java Web项目/web/WEB-INF/web.xml
+
    #### 修改方式
 
    添加
+
    #### 内容
 
 ```
