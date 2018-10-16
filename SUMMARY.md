@@ -13,6 +13,7 @@
   * [内蒙古男子实录，懒加载实质闭包](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/nei-meng-gu-nan-zi-shi-lu-ff0c-lan-jia-zai-shi-zhi-bi-bao.md)
   * [南京女子实录，getter\_and\_setter](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/nan-jingnv-zi-shi-lu-ff0c-getter-and-setter.md)
   * [用纯代码加载控制器](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/yong-chun-dai-ma-jia-zai-kong-zhi-qi.md)
+    * [输出 Bundle info.plist内容](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/yong-chun-dai-ma-jia-zai-kong-zhi-qi/shu-chu-bundle-info-plist-nei-rong.md)
 * [第二章 观音院唐僧脱难 Java Web真几把难](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan.md)
   * [范冰冰补税八亿，纳税人不明所以](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/fan-bing-bing-bu-shui-ba-yi-ff0c-na-shui-ren-bu-ming-suo-yi.md)
   * [周国平散文没看懂，汤姆猫自带连接池](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/zhou-guo-ping-san-wen-mei-kan-dong-ff0c-tang-mu-mao-zi-dai-lian-jie-chi.md)
@@ -22,4 +23,6 @@
 * [第三章：北京女子澳门下海，python学习快速上岸](di-san-zhang-ff1a-bei-jing-nv-zi-ao-men-xia-hai-ff0c-python-xue-xi-kuai-su-shang-an.md)
   * [中国式家长好玩，美国式工资渴望](zhong-guo-shi-jia-chang-hao-wan-ff0c-mei-guo-shi-gong-zi-ke-wang.md)
     * [01:乌鸦坐飞机](zhong-guo-shi-jia-chang-hao-wan-ff0c-mei-guo-shi-gong-zi-ke-wang/01wu-ya-zuo-fei-ji.md)
+* [第四章：项目布局怎么学，设计模式大法好](di-si-zhang-ff1a-xiang-mu-bu-ju-zen-yao-xue-ff0c-she-ji-mo-shi-da-fa-hao.md)
+  * [01-MVC](di-si-zhang-ff1a-xiang-mu-bu-ju-zen-yao-xue-ff0c-she-ji-mo-shi-da-fa-hao/01-mvc.md)
 
