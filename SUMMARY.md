@@ -26,4 +26,11 @@
 * [第四章：项目布局怎么学，设计模式大法好](di-si-zhang-ff1a-xiang-mu-bu-ju-zen-yao-xue-ff0c-she-ji-mo-shi-da-fa-hao.md)
   * [01-MVC](di-si-zhang-ff1a-xiang-mu-bu-ju-zen-yao-xue-ff0c-she-ji-mo-shi-da-fa-hao/01-mvc.md)
   * 02-MVVM
+* [第五章：欲女一夜难眠，Java创建工具](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju.md)
+  * [创建用户ID ](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id.md)
+    * 获取当前日期
+    * 设置省份编号
+    * 数据库的构建
+    * 校验性别函数
+    * 校验位数的函数
 
