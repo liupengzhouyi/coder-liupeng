@@ -14,6 +14,8 @@
   * [南京女子实录，getter\_and\_setter](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/nan-jingnv-zi-shi-lu-ff0c-getter-and-setter.md)
   * [用纯代码加载控制器](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/yong-chun-dai-ma-jia-zai-kong-zhi-qi.md)
     * [输出 Bundle info.plist内容](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/yong-chun-dai-ma-jia-zai-kong-zhi-qi/shu-chu-bundle-info-plist-nei-rong.md)
+  * [程序首页几秒跳过](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/cheng-xu-shou-ye-ji-miao-tiao-guo.md)
+  * [创建项目目录](di-yi-zhang-ff1a-dan-qing-gu-mo-ke-qu-gu-ren-ff0c-swift-geng-xin-tai-te-yao-de-kuai/chuang-jian-xiang-mu-mu-lu.md)
 * [第二章 观音院唐僧脱难 Java Web真几把难](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan.md)
   * [范冰冰补税八亿，纳税人不明所以](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/fan-bing-bing-bu-shui-ba-yi-ff0c-na-shui-ren-bu-ming-suo-yi.md)
   * [周国平散文没看懂，汤姆猫自带连接池](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/zhou-guo-ping-san-wen-mei-kan-dong-ff0c-tang-mu-mao-zi-dai-lian-jie-chi.md)
