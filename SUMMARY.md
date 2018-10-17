@@ -29,8 +29,8 @@
 * [第五章：欲女一夜难眠，Java创建工具](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju.md)
   * [创建用户ID ](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id.md)
     * [获取当前日期](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/huo-qu-dang-qian-ri-qi.md)
-    * 设置省份编号
-    * 数据库的构建
+    * [设置省份编号](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/she-zhi-sheng-fen-bian-hao.md)
+    * [数据库的构建](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/shu-ju-ku-de-gou-jian.md)
     * 校验性别函数
     * 校验位数的函数
 
