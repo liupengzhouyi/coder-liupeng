@@ -35,4 +35,6 @@
     * [数据库的构建](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/shu-ju-ku-de-gou-jian.md)
     * [设置Number编号](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/she-zhi-number-bian-hao.md)
     * [设置性别编号](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/she-zhi-xing-bie-bian-hao.md)
+    * [设置校验码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/she-zhi-xiao-yan-ma.md)
+    * [创建用户ID流程](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/chuang-jian-yong-hu-id-liu-cheng.md)
 

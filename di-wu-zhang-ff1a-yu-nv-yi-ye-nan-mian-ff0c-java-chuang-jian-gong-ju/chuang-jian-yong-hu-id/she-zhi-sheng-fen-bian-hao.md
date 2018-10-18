@@ -51,7 +51,6 @@ public class GetProviceNumber {
 
     public GetProviceNumber() {
         init();
-
     }
 
     public void init() {
@@ -66,6 +65,7 @@ public class GetProviceNumber {
         }
     }
 
+    //测试
     public void testToPrint() {
         Set <String> keySet = proviceMap.keySet();
 
@@ -91,9 +91,14 @@ public class GetProviceNumber {
         }
     }
 
+    public String getID(String ID, String provice) {
+        String number = this.getProviceNumber(provice);
+        return ID + provice;
+    }
+    
     public static void main(String[] args) {
         GetProviceNumber getProviceNumber = new GetProviceNumber();
-        getProviceNumber.testToPrint();
+        //getProviceNumber.testToPrint();
         System.out.println("------------------------");
         System.out.print(getProviceNumber.getProviceNumber("台湾省"));
     }
@@ -119,6 +124,26 @@ String provice
 //省份编号 number 的值
 String 
 ```
+### 函数名
+```
+String getID(String ID, String provice)
+```
+### 参数
+```
+//ID 
+String ID
+// 省份名称
+String provice
+```
+### 返回值
+```
+//ID 
+String 
+```
+
+
+
+
 
 
 
