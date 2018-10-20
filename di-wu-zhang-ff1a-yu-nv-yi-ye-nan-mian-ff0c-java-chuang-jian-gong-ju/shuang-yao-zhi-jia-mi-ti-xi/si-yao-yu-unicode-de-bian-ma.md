@@ -11,16 +11,15 @@ CreateValues
 | 函数名 | 参数 | 返回值 | 功能描述 |
 | :--- | :--- | :--- | :--- |
 | public CreateValues(String password, String code)  | String password, String code | null | 构造函数 |
-| public void createUserCode() |  |  |  |
-| public void createCoreValues() |  |  |  |
-| public void setPassword(String password) |  |  |  |
-| public AddCoreValues getAddCoreValues() |  |  |  |
-| public void setAddCoreValues(AddCoreValues addCoreValues) |  |  |  |
-| public String getCode() |  |  |  |
-| public void setCode(String code) |  |  |  |
-|  |  |  |  |
-| public String getCoreValues() |  |  |  |
-| public void setCoreValues(String coreValues) |  |  |  |
+| public void createUserCode() | null | null |  |
+| public void createCoreValues() | null | null |  |
+| public void setPassword(String password) | String password | null |  |
+| public AddCoreValues getAddCoreValues() | null | AddCoreValues |  |
+| public void setAddCoreValues(AddCoreValues addCoreValues) | AddCoreValues addCoreValues | null |  |
+| public String getCode() | null | String |  |
+| public void setCode(String code) | String code | null |  |
+| public String getCoreValues() | null | String |  |
+| public void setCoreValues(String coreValues) | String coreValues | null |  |
 
 ## 代码
 
