@@ -45,4 +45,5 @@
     * [生成你的密文](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/sheng-cheng-ni-de-mi-wen.md)
     * [通过密文获取编码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/tong-guo-mi-wen-huo-qu-bian-ma.md)
     * [编码获取明文](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/bian-ma-huo-qu-ming-wen.md)
+* 第六章：项目开始资金断，Android开发初体验
 
