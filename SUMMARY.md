@@ -41,4 +41,8 @@
     * [公钥和私钥的产生](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/gong-yao-he-si-yao-de-chan-sheng.md)
     * [DIY自己的加密编码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/diyzi-ji-de-jia-mi-bian-ma.md)
     * [加密解密字典](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/jia-mi-jie-mi-zi-dian.md)
+    * [私钥与unicode的编码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/si-yao-yu-unicode-de-bian-ma.md)
+    * [生成你的密文](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/sheng-cheng-ni-de-mi-wen.md)
+    * [通过密文获取编码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/tong-guo-mi-wen-huo-qu-bian-ma.md)
+    * [编码获取明文](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/bian-ma-huo-qu-ming-wen.md)
 
