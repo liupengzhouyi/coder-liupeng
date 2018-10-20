@@ -2,24 +2,22 @@
 
 ## 原理：利用一个字符串A，生成另一个字符串B,A为公钥，B为私钥
 
-## 类名
-```
+## 类名：password
 
-```
-### 函数名
-```
-
-```
-### 参数
-```
-
-```
-### 返回值
-```
-
-```
+| 函数名 | 参数 | 返回值 | 功能 |
+| :--- | :--- | :--- | :--- |
+| public password\(String publicPassword\) | String publicPassword | null | 设置公钥 |
+| public void makePrivaetPassword\(\) | null | null | 制作私钥 |
+| public int CharToInt\(char c\) | char | int | char值转化为int值  |
+| public String IntToString\(int number\) | int | String | int类型转化为String类型 |
+| public String CharToString\(char c\) | char | String | char类型转化为String类型 |
+| public String getPublicPassword\(\) | null | String | 获取公钥 |
+| public void setPublicPassword\(String publicPassword\) | String publicPassword | null | 设置公钥 |
+| public String getPrivatePassword\(\) | null | String | 获取私钥 |
+| public void setPrivatePassword\(String privatePassword\) | String privatePassword | null | 设置私钥 |
 
 ## 代码
+
 ```
 package JavaBean.Tools.Password;
 
@@ -123,4 +121,6 @@ public class password {
     }
 }
 ```
+
+
 
