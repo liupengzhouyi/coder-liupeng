@@ -39,6 +39,6 @@
     * [创建用户ID流程](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/chuang-jian-yong-hu-id/chuang-jian-yong-hu-id-liu-cheng.md)
   * [双钥制加密体系](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi.md)
     * [公钥和私钥的产生](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/gong-yao-he-si-yao-de-chan-sheng.md)
-    * DIY自己的加密编码
+    * [DIY自己的加密编码](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/diyzi-ji-de-jia-mi-bian-ma.md)
     * [加密解密字典](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/jia-mi-jie-mi-zi-dian.md)
 
