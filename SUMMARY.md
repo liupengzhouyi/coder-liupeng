@@ -47,4 +47,6 @@
     * [编码获取明文](di-wu-zhang-ff1a-yu-nv-yi-ye-nan-mian-ff0c-java-chuang-jian-gong-ju/shuang-yao-zhi-jia-mi-ti-xi/bian-ma-huo-qu-ming-wen.md)
 * [第六章：项目开始资金断，Android开发初体验](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan.md)
   * [使用Android Studio和Kotlin 开发 Android App](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/shi-yong-android-studio-he-kotlin-kai-fa-android-app.md)
+  * [开始编码](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kai-shi-bian-ma.md)
+    * [跑环境](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kai-shi-bian-ma/pao-huan-jing.md)
 
