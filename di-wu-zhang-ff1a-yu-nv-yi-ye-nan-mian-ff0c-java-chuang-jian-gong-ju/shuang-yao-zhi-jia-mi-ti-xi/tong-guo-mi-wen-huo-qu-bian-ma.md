@@ -6,9 +6,13 @@
 CreateValues
 ```
 
-## 函数表 
+## 函数表
 
-
+| 函数名 | 参数 | 返回值 | 功能描述 |
+| :--- | :--- | :--- | :--- |
+| public GetYourUnicode(String text）| String text | null | 构造函数 |
+| public void init() | null | null | 初始化函数 |
+| public String getMyUnicode() | null | null | 获取你的编码 |
 
 ## 代码
 
