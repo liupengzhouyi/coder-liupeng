@@ -1,12 +1,18 @@
+# 生成你的密文
+
 ## 类名
 
 ```
 CreateValues
 ```
 
-## 函数表 
+## 函数表
 
-
+| 函数名 | 参数 | 返回值 | 功能介绍 |
+| :--- | :--- | :--- | :--- |
+| public Encryption(String plainText) | String plainText | null | 构造函数 |
+| public void createText() | null | null | 生成密文 |
+| public void init() | null | null | 初始化函数 |
 
 ## 代码
 
