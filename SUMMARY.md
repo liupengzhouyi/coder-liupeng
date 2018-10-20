@@ -49,4 +49,5 @@
   * [使用Android Studio和Kotlin 开发 Android App](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/shi-yong-android-studio-he-kotlin-kai-fa-android-app.md)
   * [开始编码](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kai-shi-bian-ma.md)
     * [跑环境](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kai-shi-bian-ma/pao-huan-jing.md)
+  * [Kotlin初体验](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kotlinchu-ti-yan.md)
 
