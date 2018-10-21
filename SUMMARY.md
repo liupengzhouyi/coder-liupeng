@@ -51,4 +51,6 @@
     * [跑环境](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kai-shi-bian-ma/pao-huan-jing.md)
   * [Kotlin初体验](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kotlinchu-ti-yan.md)
     * [Kotlin类](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kotlinchu-ti-yan/kotlinlei.md)
+    * [Kotlin枚举](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kotlinchu-ti-yan/kotlinmei-ju.md)
+    * [Kotlin数据类](di-liu-zhang-ff1a-xiang-mu-kai-shi-zi-jin-duan-ff0c-android-kai-fa-chu-ti-yan/kotlinchu-ti-yan/kotlinshu-ju-lei.md)
 
