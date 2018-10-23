@@ -12,9 +12,7 @@
 | :--- | :--- |
 | 相对路径 | response.sendRedirect\("Manager/index.jsp"\); |
 | 绝对路径 | response.sendRedirect\("/Manager/index.jsp"\); |
-| 其他网站路径 | response.sendRedirect\("http://cn.bing.com"\); |
-
-
+| 其他网站路径 | response.sendRedirect\("[http://cn.bing.com"\](http://cn.bing.com"\)\); |
 
 
 
