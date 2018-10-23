@@ -23,6 +23,7 @@
   * [唐僧肉需要订购，session查看订单（一）](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/tang-seng-rou-xu-yao-ding-gou-ff0c-session-cha-kan-ding-dan.md)
   * [唐僧肉需要订购，session查看订单（二）](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/tang-seng-rou-xu-yao-ding-gou-ff0c-session-cha-kan-ding-dan-ff08-er-ff09.md)
   * [遇事就是神经病，Cookie设置备忘录](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/yu-shi-jiu-shi-shen-jing-bing-ff0c-cookie-she-zhi-bei-wang-lu.md)
+  * [深山没有指南针，了解页面重定向](di-er-zhang-guan-yin-yuan-tang-seng-tuo-nan-java-web-zhen-ji-ba-nan/shen-shan-mei-you-zhi-nan-zhen-ff0c-le-jie-ye-mian-zhong-ding-xiang.md)
 * [第三章：北京女子澳门下海，python学习快速上岸](di-san-zhang-ff1a-bei-jing-nv-zi-ao-men-xia-hai-ff0c-python-xue-xi-kuai-su-shang-an.md)
   * [中国式家长好玩，美国式工资渴望](zhong-guo-shi-jia-chang-hao-wan-ff0c-mei-guo-shi-gong-zi-ke-wang.md)
     * [01:乌鸦坐飞机](zhong-guo-shi-jia-chang-hao-wan-ff0c-mei-guo-shi-gong-zi-ke-wang/01wu-ya-zuo-fei-ji.md)
