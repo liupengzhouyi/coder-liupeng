@@ -1,5 +1,7 @@
 # 设置Number编号
-## 代码 
+
+## 代码
+
 ```
 package JavaBean.Tools;
 
@@ -64,83 +66,103 @@ public class AddNumber {
     // Number String
     private String number = null;
 }
-
 ```
+
 ## 类名
+
 ```
 AddNumber
 ```
+
 ## 函数名
+
 ```
 AddNumber(String ID)
 ```
+
 ### 参数
+
 ```
-String ID 
+String ID
 ```
+
 ### 返回值
+
 ```
 null
 ```
+
 ## 函数名
+
 ```
 String ReturnThreeNumber(String number)
 ```
+
 ### 参数
+
 ```
 String number
 ```
+
 ### 返回值
+
 ```
 String
 ```
+
 ## 函数名
+
 ```
 init(String number)
 ```
+
 ### 参数
+
 ```
 String number
 ```
+
 ### 返回值
+
 ```
 null
 ```
+
 ## 函数名
+
 ```
 int StringToInt(String number)
 ```
+
 ### 参数
+
 ```
 String number
 ```
+
 ### 返回值
+
 ```
 int
 ```
+
 ## 函数名
+
 ```
 String getID()
 ```
+
 ### 参数
+
 ```
 null
 ```
+
 ### 返回值
+
 ```
 String
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 
 

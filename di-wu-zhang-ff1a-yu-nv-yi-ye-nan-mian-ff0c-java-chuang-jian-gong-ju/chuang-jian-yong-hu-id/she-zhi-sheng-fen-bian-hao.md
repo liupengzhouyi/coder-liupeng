@@ -95,7 +95,7 @@ public class GetProviceNumber {
         String number = this.getProviceNumber(provice);
         return ID + provice;
     }
-    
+
     public static void main(String[] args) {
         GetProviceNumber getProviceNumber = new GetProviceNumber();
         //getProviceNumber.testToPrint();
@@ -103,48 +103,55 @@ public class GetProviceNumber {
         System.out.print(getProviceNumber.getProviceNumber("台湾省"));
     }
 }
-
-
 ```
+
 ### 类名
+
 ```
 GetProviceNumber
 ```
+
 ### 函数名
+
 ```
 String getProviceNumber(String provice)
 ```
+
 ### 参数
+
 ```
 // 省份名称
 String provice
 ```
+
 ### 返回值
+
 ```
 //省份编号 number 的值
-String 
+String
 ```
+
 ### 函数名
+
 ```
 String getID(String ID, String provice)
 ```
+
 ### 参数
+
 ```
 //ID 
 String ID
 // 省份名称
 String provice
 ```
+
 ### 返回值
+
 ```
 //ID 
-String 
+String
 ```
-
-
-
-
-
 
 
 

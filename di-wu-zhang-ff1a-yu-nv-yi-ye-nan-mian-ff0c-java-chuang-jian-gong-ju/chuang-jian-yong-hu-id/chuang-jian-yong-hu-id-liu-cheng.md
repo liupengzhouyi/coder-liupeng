@@ -1,14 +1,18 @@
 # 创建用户ID流程
+
 ## 思维导图
+
 ![](/assets/屏幕快照 2018-10-18 下午3.38.40.png)
+
 ## 代码
+
 ```
 package JavaBean.Test;
 import JavaBean.Tools.*;
 
 
 public class createID {
-    
+
     public createID(String provice, String number) {
         String ID = null;
         //省份： 内蒙古自治区
@@ -47,45 +51,54 @@ public class createID {
     }
 
     private String ID = null;
-    
+
     public static void main(String[] args) {
         new createID("内蒙古自治区", "56");
     }
 }
-
 ```
+
 ### 类名
+
 ```
 createID
 ```
+
 ### 函数名
+
 ```
 createID(String provice, String number)
 ```
+
 ### 参数
+
 ```
 String provice, String number
 ```
+
 ### 返回值
+
 ```
 null
 ```
+
 ### 函数名
+
 ```
 String getID()
 ```
+
 ### 参数
+
 ```
 null
 ```
+
 ### 返回值
+
 ```
 String
 ```
-
-
-
-
 
 
 
