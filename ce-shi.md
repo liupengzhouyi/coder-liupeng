@@ -145,4 +145,5 @@ public class AddClassTest {
 * @BeforeClass：所有测试方法执行前执行一次，在测试类还没有实例化就已经被加载，所以用static修饰
 * @AfterClass：所有测试方法执行完执行一次，在测试类还没有实例化就已经被加载，所以用static修饰
 * @Ignore：暂不执行该测试方法!
-[](/assets/屏幕快照 2019-02-27 上午11.30.24.png)
+
+![](/assets/屏幕快照 2019-02-27 上午11.41.21.png)
